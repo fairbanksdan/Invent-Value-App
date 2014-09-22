@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B9CB2D5-D8FA-4300-8992-93B9B8CF92FE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Invent Value Prototype</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>11E9BB31608ACA0F7A47A1A8A09BC3AFBFA610D2</key>
+		<string>github.com:fairbanksdan/Invent-Value-App.git</string>
+		<key>36D750559553C7EF89CAFAF277E23E3B77F1A323</key>
+		<string>github.com:fairbanksdan/Invent-Value-Prototype-1.git</string>
+		<key>5607673B-CC3B-48FC-A082-BC6094535473</key>
+		<string>ssh://github.com/fairbanksdan/Invent-Value-Prototype-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Invent Value Prototype.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>11E9BB31608ACA0F7A47A1A8A09BC3AFBFA610D2</key>
+		<string>../..</string>
+		<key>36D750559553C7EF89CAFAF277E23E3B77F1A323</key>
+		<string>../../../Invent%20Value%20Prototype</string>
+		<key>5607673B-CC3B-48FC-A082-BC6094535473</key>
+		<string>../../../Invent Value Prototype</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:fairbanksdan/Invent-Value-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>11E9BB31608ACA0F7A47A1A8A09BC3AFBFA610D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5607673B-CC3B-48FC-A082-BC6094535473</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Invent Value Prototype</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>11E9BB31608ACA0F7A47A1A8A09BC3AFBFA610D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Invent%20Value%20App</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>36D750559553C7EF89CAFAF277E23E3B77F1A323</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Invent%20Value%20Prototype</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IdeaAttachment.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>IdeaAttachmentFileProvider.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Invent Value Prototype.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D67693FB19C2516B001D87F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D676940919C2516B001D87F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D6B65837199BE8FB0037E77B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D6B6584D199BE8FB0037E77B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
